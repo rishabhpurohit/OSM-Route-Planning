@@ -5,7 +5,7 @@ The aim of project is to successfully find the shortest path between two points 
 * Used GoogleTest Framework for unit testing.
 
 
-<img src="map.png" width="600" height="450" />
+<img src="map.png" width="600" height="450" /> <img src="map.png" width="600" height="450" />
 
 
 The steps of this project are the following:
@@ -15,7 +15,7 @@ The steps of this project are the following:
 3 A* search Alogrithm was used for node searching and path planning.
 4 The path is returned and plotted used IO2D library..
 
-<img src="map.png" width="600" height="450" />
+
 
 ## Cloning
 
