@@ -1,5 +1,33 @@
 # Route Planning Project
 
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
+The following project is a part of Udacity’s C++ NanoDegree program. The aim of project is to successfully find the shortest path between two points on the map.
+
+- Map data from OSM XML file is parsed and the optimal path is plotted using IO2D Library in C++; 
+- Used GoogleTest Framework for unit testing.
+
+<img src="map.png" width="600" height="450" />
+
+The Project
+---
+
+The steps of this project are the following:
+
+* Parsing the data from OpenStreetMap file (.OSM xml file)
+* The user inputs two points on the map and initial and final points
+* Route planner is executed
+  * Based on the points input by the user, the closest initial and final nodes are found.
+  * A list of feasible open nodes is updated.
+  * Based on a heuristic value and the distance from the start node, next node is popped.
+  * From the popped node, the open list is again updated.
+* The process is repeated till either the next node is the goal, or the open list is exhausted.
+* The path is returned and plotted used IO2D library.
+
+
+
+# Route Planning Project
+
 This repo contains the starter code for the Route Planning project.
 
 <img src="map.png" width="600" height="450" />
