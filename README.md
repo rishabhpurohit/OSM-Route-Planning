@@ -1,20 +1,30 @@
 # The Project
 
 The aim of project is to successfully find the shortest path between two points on the map.
-* Map data from OSM XML file is parsed and the optimal path is plotted using IO2D Library in C++; 
-* Used GoogleTest Framework for unit testing.
-
-
-<img src="map.png" width="600" height="450" /> <img src="map.png" width="600" height="450" />
 
 
 The steps of this project are the following:
 
 1 Parsing the data from OpenStreetMap file (.OSM xml file).
-2 The user inputs two points on the map and initial and final points.
-3 A* search Alogrithm was used for node searching and path planning.
-4 The path is returned and plotted used IO2D library..
 
+
+2 The user inputs two points on the map and initial and final points.
+
+
+3 A* search Alogrithm was used for node searching and path planning.
+
+
+4 The path is returned and plotted used IO2D library.
+
+
+5 Map data from OSM XML file is parsed and the optimal path is plotted using IO2D Library in C++.
+
+
+6 Used GoogleTest Framework for unit testing.
+
+
+
+<img src="map.png" width="600" height="450" /> <img src="map.png" width="600" height="450" />
 
 
 ## Cloning
