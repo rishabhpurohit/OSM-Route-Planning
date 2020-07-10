@@ -8,7 +8,7 @@ The steps of this project are the following:
 1 Parsing the data from OpenStreetMap file (.OSM xml file).
 
 
-2 The user inputs two points on the map and initial and final points.
+2 The user inputs two points on the map and starting and ending nodes (values in percentage bw(0-100) and coordinate type(x,y) for both).
 
 
 3 A* search Alogrithm was used for node searching and path planning.
