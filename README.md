@@ -84,3 +84,12 @@ The testing executable is also placed in the `build` directory. From within `bui
 ./test
 ```
 
+## A* Search Implementation
+
+![](https://github.com/rishabhpurohit/OSM-Route-Planning/blob/master/images/a-search-algorithm-1.png)
+![](https://github.com/rishabhpurohit/OSM-Route-Planning/blob/master/images/Screenshot_2020-07-06%20C%2B%2B%20-%20Udacity.png)
+![](https://github.com/rishabhpurohit/OSM-Route-Planning/blob/master/images/osm%20plan.png)
+![](https://github.com/rishabhpurohit/OSM-Route-Planning/blob/master/images/Screenshot_2020-07-06%20C%2B%2B%20-%20Udacity(1).png)
+![](https://github.com/rishabhpurohit/OSM-Route-Planning/blob/master/images/Screenshot_2020-07-07%20C%2B%2B%20-%20Udacity.png)
+
+
